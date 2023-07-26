@@ -1,6 +1,4 @@
-// Ricardo Lemus
-// class account number: cssc0329
-// Student ID: 821687094
+
 #include "BinarySearchTree.h"
 using namespace BST_NS;
 
