@@ -1,6 +1,4 @@
-// Ricardo Lemus
-// class account number: cssc0329
-// Student ID: 821687094
+
 //This is the header file LinkedList.h. This contains type definitions and
 //function declarations for manipulating a linked list to store data of any type T.
 //The linked list is given as a pointer of type Node<T>* which points to the 
