@@ -1,6 +1,4 @@
-// Ricardo Lemus
-// class account number: cssc0329
-// Student ID: 821687094
+
 // BinarySearchTree.h:	Header file for BinaryBinarySearchTree.cpp
 // The only way to insert data in a tree is with the insert function, thus
 // satisfying the BST rule giving it a well behaved ordering to the type T.
