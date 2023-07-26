@@ -1,6 +1,5 @@
-// Ricardo Lemus
-// class account number: cssc0329
-// Student ID: 821687094
+
+
 #include "HashTable.h"
 using namespace HashTableNS;
 
