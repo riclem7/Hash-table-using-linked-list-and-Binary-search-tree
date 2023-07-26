@@ -1,6 +1,4 @@
-// Ricardo Lemus
-// class account number: cssc0329
-// Student ID: 821687094
+
 // This is the header file HashTable.h.  This is the interface
 // for the class HashTable, which is a class for a hash table
 // of strings.
